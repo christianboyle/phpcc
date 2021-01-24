@@ -1,8 +1,8 @@
 <?php
 /**
- * User: TheCodeholic
- * Date: 10/11/2020
- * Time: 10:07 AM
+ * User: ChristianBoyle
+ * Date: 1/24/2021
+ * Time: 10:13 AM
  */
 
 namespace app\controllers;
@@ -13,7 +13,7 @@ use app\Router;
 /**
  * Class ProductController
  *
- * @author  Zura Sekhniashvili <zurasekhniashvili@gmail.com>
+ * @author  Christian Boyle <mail@christianboyle.com>
  * @package app\controllers
  */
 class ProductController

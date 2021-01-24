@@ -1,8 +1,8 @@
 <?php
 /**
- * User: TheCodeholic
- * Date: 10/11/2020
- * Time: 10:33 AM
+ * User: ChristianBoyle
+ * Date: 1/24/2021
+ * Time: 10:12 AM
  */
 
 namespace app;
@@ -13,7 +13,7 @@ use PDO;
 /**
  * Class Database
  *
- * @author  Zura Sekhniashvili <zurasekhniashvili@gmail.com>
+ * @author  Christian Boyle <mail@christianboyle.com>
  * @package app
  */
 class Database
